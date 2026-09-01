@@ -6,3 +6,4 @@
 | 4 | [Accounts Merge](./LeetCode/Medium/Accounts%20Merge) | [LeetCode](https://leetcode.com/problems/accounts-merge/) | Medium | 28 Aug 2026 | 05:58 pm |
 | 5 | [Clone Graph](./LeetCode/Medium/Clone%20Graph) | [LeetCode](https://leetcode.com/problems/clone-graph/) | Medium | 28 Aug 2026 | 06:44 pm |
 | 6 | [Rotting Oranges](./LeetCode/Medium/Rotting%20Oranges) | [LeetCode](https://leetcode.com/problems/rotting-oranges/) | Medium | 31 Aug 2026 | 01:45 pm |
+| 7 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 01 Sept 2026 | 08:57 am |
