@@ -1,12 +1,12 @@
 {
-  "totalSolved": 7,
+  "totalSolved": 8,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-09-01",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
-    "medium": 5,
+    "medium": 6,
     "hard": 0,
     "basic": 0
   },
@@ -17,15 +17,17 @@
     "LeetCode_Accounts_Merge": true,
     "LeetCode_Clone_Graph": true,
     "LeetCode_Rotting_Oranges": true,
-    "LeetCode_Move_Zeroes": true
+    "LeetCode_Move_Zeroes": true,
+    "LeetCode_Minimum_Size_Subarray_Sum": true
   },
   "activityHistory": {
     "2026-08-17": 1,
     "2026-08-28": 4,
     "2026-08-31": 1,
-    "2026-09-01": 1
+    "2026-09-01": 2
   },
   "todayProblems": [
-    "Move Zeroes"
+    "Move Zeroes",
+    "Minimum Size Subarray Sum"
   ]
 }
