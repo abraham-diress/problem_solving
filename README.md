@@ -9,3 +9,4 @@
 | 7 | [Move Zeroes](./LeetCode/Easy/Move%20Zeroes) | [LeetCode](https://leetcode.com/problems/move-zeroes/) | Easy | 01 Sept 2026 | 08:57 am |
 | 8 | [Minimum Size Subarray Sum](./LeetCode/Medium/Minimum%20Size%20Subarray%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | 01 Sept 2026 | 05:29 pm |
 | 9 | [Longest Substring Without Repeating Characters](./LeetCode/Medium/Longest%20Substring%20Without%20Repeating%20Characters) | [LeetCode](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | 02 Sept 2026 | 07:43 am |
+| 10 | [Pacific Atlantic Water Flow](./LeetCode/Medium/Pacific%20Atlantic%20Water%20Flow) | [LeetCode](https://leetcode.com/problems/pacific-atlantic-water-flow/) | Medium | 04 Sept 2026 | 05:46 pm |
