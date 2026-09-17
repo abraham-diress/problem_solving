@@ -1,11 +1,11 @@
 {
-  "totalSolved": 11,
+  "totalSolved": 12,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-09-09",
+  "lastSyncDate": "2026-09-17",
   "todayCount": 1,
   "difficultyCounts": {
-    "easy": 2,
+    "easy": 3,
     "medium": 9,
     "hard": 0,
     "basic": 0
@@ -21,7 +21,8 @@
     "LeetCode_Minimum_Size_Subarray_Sum": true,
     "LeetCode_Longest_Substring_Without_Repeating_Characters": true,
     "LeetCode_Pacific_Atlantic_Water_Flow": true,
-    "LeetCode_Count_Good_Cyclic_Rotations": true
+    "LeetCode_Count_Good_Cyclic_Rotations": true,
+    "GeeksForGeeks_DFS_of_Graph": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -30,9 +31,10 @@
     "2026-09-01": 2,
     "2026-09-02": 1,
     "2026-09-04": 1,
-    "2026-09-09": 1
+    "2026-09-09": 1,
+    "2026-09-17": 1
   },
   "todayProblems": [
-    "Count Good Cyclic Rotations"
+    "DFS of Graph"
   ]
 }
