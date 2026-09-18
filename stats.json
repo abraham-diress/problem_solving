@@ -1,12 +1,12 @@
 {
-  "totalSolved": 14,
+  "totalSolved": 15,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-18",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 4,
-    "medium": 10,
+    "medium": 11,
     "hard": 0,
     "basic": 0
   },
@@ -24,7 +24,8 @@
     "LeetCode_Count_Good_Cyclic_Rotations": true,
     "GeeksForGeeks_DFS_of_Graph": true,
     "LeetCode_Flood_Fill": true,
-    "GeeksForGeeks_Undirected_Graph_Cycle": true
+    "GeeksForGeeks_Undirected_Graph_Cycle": true,
+    "LeetCode_01_Matrix": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -35,10 +36,11 @@
     "2026-09-04": 1,
     "2026-09-09": 1,
     "2026-09-17": 1,
-    "2026-09-18": 2
+    "2026-09-18": 3
   },
   "todayProblems": [
     "Flood Fill",
-    "Undirected Graph Cycle"
+    "Undirected Graph Cycle",
+    "01 Matrix"
   ]
 }
