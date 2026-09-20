@@ -16,3 +16,4 @@
 | 14 | [Undirected Graph Cycle](./GeeksForGeeks/Medium/Undirected%20Graph%20Cycle) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1) | Medium | 18 Sept 2026 | 04:32 pm |
 | 15 | [01 Matrix](./LeetCode/Medium/01%20Matrix) | [LeetCode](https://leetcode.com/problems/01-matrix/) | Medium | 18 Sept 2026 | 06:38 pm |
 | 16 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 18 Sept 2026 | 07:39 pm |
+| 17 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 19 Sept 2026 | 10:10 pm |
