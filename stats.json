@@ -1,11 +1,11 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
-    "easy": 5,
+    "easy": 6,
     "medium": 13,
     "hard": 0,
     "basic": 0
@@ -28,7 +28,8 @@
     "LeetCode_01_Matrix": true,
     "LeetCode_Surrounded_Regions": true,
     "LeetCode_Number_of_Enclaves": true,
-    "LeetCode_Recyclable_and_Low_Fat_Products": true
+    "LeetCode_Recyclable_and_Low_Fat_Products": true,
+    "LeetCode_Find_Customer_Referee": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -41,9 +42,10 @@
     "2026-09-17": 1,
     "2026-09-18": 4,
     "2026-09-19": 1,
-    "2026-09-24": 1
+    "2026-09-24": 2
   },
   "todayProblems": [
-    "Recyclable and Low Fat Products"
+    "Recyclable and Low Fat Products",
+    "Find Customer Referee"
   ]
 }

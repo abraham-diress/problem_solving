@@ -18,3 +18,4 @@
 | 16 | [Surrounded Regions](./LeetCode/Medium/Surrounded%20Regions) | [LeetCode](https://leetcode.com/problems/surrounded-regions/) | Medium | 18 Sept 2026 | 07:39 pm |
 | 17 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 19 Sept 2026 | 10:10 pm |
 | 18 | [Recyclable and Low Fat Products](./LeetCode/Easy/Recyclable%20and%20Low%20Fat%20Products) | [LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | 24 Sept 2026 | 09:13 am |
+| 19 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 24 Sept 2026 | 09:18 am |
