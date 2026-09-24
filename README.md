@@ -19,3 +19,4 @@
 | 17 | [Number of Enclaves](./LeetCode/Medium/Number%20of%20Enclaves) | [LeetCode](https://leetcode.com/problems/number-of-enclaves/) | Medium | 19 Sept 2026 | 10:10 pm |
 | 18 | [Recyclable and Low Fat Products](./LeetCode/Easy/Recyclable%20and%20Low%20Fat%20Products) | [LeetCode](https://leetcode.com/problems/recyclable-and-low-fat-products/) | Easy | 24 Sept 2026 | 09:13 am |
 | 19 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 24 Sept 2026 | 09:18 am |
+| 20 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 24 Sept 2026 | 09:22 am |
