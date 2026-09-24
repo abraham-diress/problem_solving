@@ -21,3 +21,4 @@
 | 19 | [Find Customer Referee](./LeetCode/Easy/Find%20Customer%20Referee) | [LeetCode](https://leetcode.com/problems/find-customer-referee/) | Easy | 24 Sept 2026 | 09:18 am |
 | 20 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 24 Sept 2026 | 09:22 am |
 | 21 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 24 Sept 2026 | 09:43 am |
+| 22 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 24 Sept 2026 | 09:53 am |
