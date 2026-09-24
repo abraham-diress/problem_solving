@@ -22,3 +22,4 @@
 | 20 | [Big Countries](./LeetCode/Easy/Big%20Countries) | [LeetCode](https://leetcode.com/problems/big-countries/) | Easy | 24 Sept 2026 | 09:22 am |
 | 21 | [Article Views I](./LeetCode/Easy/Article%20Views%20I) | [LeetCode](https://leetcode.com/problems/article-views-i/) | Easy | 24 Sept 2026 | 09:43 am |
 | 22 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 24 Sept 2026 | 09:53 am |
+| 23 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 24 Sept 2026 | 04:11 pm |

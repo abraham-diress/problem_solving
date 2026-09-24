@@ -1,12 +1,12 @@
 {
-  "totalSolved": 22,
+  "totalSolved": 23,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-09-24",
-  "todayCount": 5,
+  "todayCount": 6,
   "difficultyCounts": {
     "easy": 9,
-    "medium": 13,
+    "medium": 14,
     "hard": 0,
     "basic": 0
   },
@@ -32,7 +32,8 @@
     "LeetCode_Find_Customer_Referee": true,
     "LeetCode_Big_Countries": true,
     "LeetCode_Article_Views_I": true,
-    "LeetCode_Invalid_Tweets": true
+    "LeetCode_Invalid_Tweets": true,
+    "LeetCode_Course_Schedule": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -45,13 +46,14 @@
     "2026-09-17": 1,
     "2026-09-18": 4,
     "2026-09-19": 1,
-    "2026-09-24": 5
+    "2026-09-24": 6
   },
   "todayProblems": [
     "Recyclable and Low Fat Products",
     "Find Customer Referee",
     "Big Countries",
     "Article Views I",
-    "Invalid Tweets"
+    "Invalid Tweets",
+    "Course Schedule"
   ]
 }
