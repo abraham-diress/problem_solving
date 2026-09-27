@@ -24,3 +24,4 @@
 | 22 | [Invalid Tweets](./LeetCode/Easy/Invalid%20Tweets) | [LeetCode](https://leetcode.com/problems/invalid-tweets/) | Easy | 24 Sept 2026 | 09:53 am |
 | 23 | [Course Schedule](./LeetCode/Medium/Course%20Schedule) | [LeetCode](https://leetcode.com/problems/course-schedule/) | Medium | 24 Sept 2026 | 04:11 pm |
 | 24 | [Climbing Stairs](./LeetCode/Easy/Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/climbing-stairs/) | Easy | 25 Sept 2026 | 12:14 pm |
+| 25 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 27 Sept 2026 | 03:02 pm |
