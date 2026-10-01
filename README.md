@@ -27,3 +27,4 @@
 | 25 | [Frog Jump](./GeeksForGeeks/Medium/Frog%20Jump) | [GeeksForGeeks](https://www.geeksforgeeks.org/problems/geek-jump/1) | Medium | 27 Sept 2026 | 03:02 pm |
 | 26 | [House Robber](./LeetCode/Medium/House%20Robber) | [LeetCode](https://leetcode.com/problems/house-robber/) | Medium | 28 Sept 2026 | 10:18 pm |
 | 27 | [Fibonacci Number](./LeetCode/Easy/Fibonacci%20Number) | [LeetCode](https://leetcode.com/problems/fibonacci-number/) | Easy | 30 Sept 2026 | 05:45 pm |
+| 28 | [Min Cost Climbing Stairs](./LeetCode/Easy/Min%20Cost%20Climbing%20Stairs) | [LeetCode](https://leetcode.com/problems/min-cost-climbing-stairs/) | Easy | 30 Sept 2026 | 11:40 pm |
