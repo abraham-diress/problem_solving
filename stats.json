@@ -1,12 +1,12 @@
 {
-  "totalSolved": 32,
+  "totalSolved": 33,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 18,
+    "medium": 19,
     "hard": 2,
     "basic": 0
   },
@@ -42,7 +42,8 @@
     "LeetCode_Coin_Change": true,
     "LeetCode_Sliding_Window_Maximum": true,
     "LeetCode_3Sum": true,
-    "LeetCode_Median_of_Two_Sorted_Arrays": true
+    "LeetCode_Median_of_Two_Sorted_Arrays": true,
+    "LeetCode_Zigzag_Conversion": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -62,10 +63,11 @@
     "2026-09-30": 2,
     "2026-10-01": 1,
     "2026-10-05": 1,
-    "2026-10-09": 2
+    "2026-10-09": 3
   },
   "todayProblems": [
     "3Sum",
-    "Median of Two Sorted Arrays"
+    "Median of Two Sorted Arrays",
+    "Zigzag Conversion"
   ]
 }
