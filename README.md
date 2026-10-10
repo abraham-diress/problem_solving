@@ -34,3 +34,4 @@
 | 32 | [Median of Two Sorted Arrays](./LeetCode/Hard/Median%20of%20Two%20Sorted%20Arrays) | [LeetCode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | Hard | 09 Oct 2026 | 11:00 pm |
 | 33 | [Zigzag Conversion](./LeetCode/Medium/Zigzag%20Conversion) | [LeetCode](https://leetcode.com/problems/zigzag-conversion/) | Medium | 09 Oct 2026 | 11:01 pm |
 | 34 | [Regular Expression Matching](./LeetCode/Hard/Regular%20Expression%20Matching) | [LeetCode](https://leetcode.com/problems/regular-expression-matching/) | Hard | 09 Oct 2026 | 11:01 pm |
+| 35 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 09 Oct 2026 | 11:04 pm |
