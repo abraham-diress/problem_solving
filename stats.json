@@ -1,13 +1,13 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-09",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 12,
     "medium": 18,
-    "hard": 1,
+    "hard": 2,
     "basic": 0
   },
   "syncedProblems": {
@@ -41,7 +41,8 @@
     "LeetCode_Min_Cost_Climbing_Stairs": true,
     "LeetCode_Coin_Change": true,
     "LeetCode_Sliding_Window_Maximum": true,
-    "LeetCode_3Sum": true
+    "LeetCode_3Sum": true,
+    "LeetCode_Median_of_Two_Sorted_Arrays": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -61,9 +62,10 @@
     "2026-09-30": 2,
     "2026-10-01": 1,
     "2026-10-05": 1,
-    "2026-10-09": 1
+    "2026-10-09": 2
   },
   "todayProblems": [
-    "3Sum"
+    "3Sum",
+    "Median of Two Sorted Arrays"
   ]
 }
