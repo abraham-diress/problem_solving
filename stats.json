@@ -1,12 +1,12 @@
 {
-  "totalSolved": 43,
+  "totalSolved": 44,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 25,
+    "medium": 26,
     "hard": 6,
     "basic": 0
   },
@@ -53,7 +53,8 @@
     "LeetCode_Longest_Valid_Parentheses": true,
     "LeetCode_Trapping_Rain_Water": true,
     "LeetCode_Jump_Game_II": true,
-    "LeetCode_Maximum_Subarray": true
+    "LeetCode_Maximum_Subarray": true,
+    "LeetCode_Jump_Game": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -74,7 +75,7 @@
     "2026-10-01": 1,
     "2026-10-05": 1,
     "2026-10-09": 6,
-    "2026-10-11": 7
+    "2026-10-11": 8
   },
   "todayProblems": [
     "Design Front Middle Back Queue",
@@ -83,6 +84,7 @@
     "Longest Valid Parentheses",
     "Trapping Rain Water",
     "Jump Game II",
-    "Maximum Subarray"
+    "Maximum Subarray",
+    "Jump Game"
   ]
 }
