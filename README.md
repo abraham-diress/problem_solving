@@ -36,3 +36,4 @@
 | 34 | [Regular Expression Matching](./LeetCode/Hard/Regular%20Expression%20Matching) | [LeetCode](https://leetcode.com/problems/regular-expression-matching/) | Hard | 09 Oct 2026 | 11:01 pm |
 | 35 | [Valid Sudoku](./LeetCode/Medium/Valid%20Sudoku) | [LeetCode](https://leetcode.com/problems/valid-sudoku/) | Medium | 09 Oct 2026 | 11:04 pm |
 | 36 | [Sudoku Solver](./LeetCode/Hard/Sudoku%20Solver) | [LeetCode](https://leetcode.com/problems/sudoku-solver/) | Hard | 09 Oct 2026 | 11:05 pm |
+| 37 | [Design Front Middle Back Queue](./LeetCode/Medium/Design%20Front%20Middle%20Back%20Queue) | [LeetCode](https://leetcode.com/problems/design-front-middle-back-queue/) | Medium | 11 Oct 2026 | 10:22 pm |

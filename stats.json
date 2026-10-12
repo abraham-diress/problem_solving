@@ -1,12 +1,12 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 1,
   "maxStreak": 3,
-  "lastSyncDate": "2026-10-09",
-  "todayCount": 6,
+  "lastSyncDate": "2026-10-11",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 20,
+    "medium": 21,
     "hard": 4,
     "basic": 0
   },
@@ -46,7 +46,8 @@
     "LeetCode_Zigzag_Conversion": true,
     "LeetCode_Regular_Expression_Matching": true,
     "LeetCode_Valid_Sudoku": true,
-    "LeetCode_Sudoku_Solver": true
+    "LeetCode_Sudoku_Solver": true,
+    "LeetCode_Design_Front_Middle_Back_Queue": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -66,14 +67,10 @@
     "2026-09-30": 2,
     "2026-10-01": 1,
     "2026-10-05": 1,
-    "2026-10-09": 6
+    "2026-10-09": 6,
+    "2026-10-11": 1
   },
   "todayProblems": [
-    "3Sum",
-    "Median of Two Sorted Arrays",
-    "Zigzag Conversion",
-    "Regular Expression Matching",
-    "Valid Sudoku",
-    "Sudoku Solver"
+    "Design Front Middle Back Queue"
   ]
 }
