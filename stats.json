@@ -1,12 +1,12 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-11",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 22,
+    "medium": 23,
     "hard": 4,
     "basic": 0
   },
@@ -48,7 +48,8 @@
     "LeetCode_Valid_Sudoku": true,
     "LeetCode_Sudoku_Solver": true,
     "LeetCode_Design_Front_Middle_Back_Queue": true,
-    "LeetCode_Number_of_Orders_in_the_Backlog": true
+    "LeetCode_Number_of_Orders_in_the_Backlog": true,
+    "LeetCode_Longest_Palindromic_Substring": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -69,10 +70,11 @@
     "2026-10-01": 1,
     "2026-10-05": 1,
     "2026-10-09": 6,
-    "2026-10-11": 2
+    "2026-10-11": 3
   },
   "todayProblems": [
     "Design Front Middle Back Queue",
-    "Number of Orders in the Backlog"
+    "Number of Orders in the Backlog",
+    "Longest Palindromic Substring"
   ]
 }
