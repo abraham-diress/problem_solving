@@ -40,3 +40,4 @@
 | 38 | [Number of Orders in the Backlog](./LeetCode/Medium/Number%20of%20Orders%20in%20the%20Backlog) | [LeetCode](https://leetcode.com/problems/number-of-orders-in-the-backlog/) | Medium | 11 Oct 2026 | 10:22 pm |
 | 39 | [Longest Palindromic Substring](./LeetCode/Medium/Longest%20Palindromic%20Substring) | [LeetCode](https://leetcode.com/problems/longest-palindromic-substring/) | Medium | 11 Oct 2026 | 10:23 pm |
 | 40 | [Longest Valid Parentheses](./LeetCode/Hard/Longest%20Valid%20Parentheses) | [LeetCode](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | 11 Oct 2026 | 10:24 pm |
+| 41 | [Trapping Rain Water](./LeetCode/Hard/Trapping%20Rain%20Water) | [LeetCode](https://leetcode.com/problems/trapping-rain-water/) | Hard | 11 Oct 2026 | 10:24 pm |
