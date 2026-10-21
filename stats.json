@@ -1,12 +1,12 @@
 {
-  "totalSolved": 45,
+  "totalSolved": 46,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 12,
-    "medium": 27,
+    "medium": 28,
     "hard": 6,
     "basic": 0
   },
@@ -55,7 +55,8 @@
     "LeetCode_Jump_Game_II": true,
     "LeetCode_Maximum_Subarray": true,
     "LeetCode_Jump_Game": true,
-    "LeetCode_3Sum_Closest": true
+    "LeetCode_3Sum_Closest": true,
+    "LeetCode_Generate_Parentheses": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -77,9 +78,10 @@
     "2026-10-05": 1,
     "2026-10-09": 6,
     "2026-10-11": 8,
-    "2026-10-21": 1
+    "2026-10-21": 2
   },
   "todayProblems": [
-    "3Sum Closest"
+    "3Sum Closest",
+    "Generate Parentheses"
   ]
 }

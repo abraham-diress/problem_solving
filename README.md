@@ -45,3 +45,4 @@
 | 43 | [Maximum Subarray](./LeetCode/Medium/Maximum%20Subarray) | [LeetCode](https://leetcode.com/problems/maximum-subarray/) | Medium | 11 Oct 2026 | 10:25 pm |
 | 44 | [Jump Game](./LeetCode/Medium/Jump%20Game) | [LeetCode](https://leetcode.com/problems/jump-game/) | Medium | 11 Oct 2026 | 10:25 pm |
 | 45 | [3Sum Closest](./LeetCode/Medium/3Sum%20Closest) | [LeetCode](https://leetcode.com/problems/3sum-closest/) | Medium | 21 Oct 2026 | 05:36 pm |
+| 46 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 21 Oct 2026 | 05:37 pm |
