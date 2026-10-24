@@ -1,12 +1,12 @@
 {
-  "totalSolved": 49,
+  "totalSolved": 50,
   "currentStreak": 2,
   "maxStreak": 3,
   "lastSyncDate": "2026-10-24",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 13,
-    "medium": 30,
+    "medium": 31,
     "hard": 6,
     "basic": 0
   },
@@ -59,7 +59,8 @@
     "LeetCode_Generate_Parentheses": true,
     "LeetCode_Remove_Element": true,
     "LeetCode_Decode_Ways": true,
-    "LeetCode_Word_Break": true
+    "LeetCode_Word_Break": true,
+    "LeetCode_Combination_Sum": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -83,9 +84,10 @@
     "2026-10-11": 8,
     "2026-10-21": 3,
     "2026-10-23": 1,
-    "2026-10-24": 1
+    "2026-10-24": 2
   },
   "todayProblems": [
-    "Word Break"
+    "Word Break",
+    "Combination Sum"
   ]
 }
