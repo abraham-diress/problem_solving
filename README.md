@@ -48,3 +48,4 @@
 | 46 | [Generate Parentheses](./LeetCode/Medium/Generate%20Parentheses) | [LeetCode](https://leetcode.com/problems/generate-parentheses/) | Medium | 21 Oct 2026 | 05:37 pm |
 | 47 | [Remove Element](./LeetCode/Easy/Remove%20Element) | [LeetCode](https://leetcode.com/problems/remove-element/) | Easy | 21 Oct 2026 | 05:38 pm |
 | 48 | [Decode Ways](./LeetCode/Medium/Decode%20Ways) | [LeetCode](https://leetcode.com/problems/decode-ways/) | Medium | 23 Oct 2026 | 09:23 pm |
+| 49 | [Word Break](./LeetCode/Medium/Word%20Break) | [LeetCode](https://leetcode.com/problems/word-break/) | Medium | 24 Oct 2026 | 03:53 pm |
