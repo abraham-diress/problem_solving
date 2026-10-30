@@ -53,3 +53,4 @@
 | 51 | [Maximum Average Subarray I](./LeetCode/Easy/Maximum%20Average%20Subarray%20I) | [LeetCode](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | 29 Oct 2026 | 06:29 pm |
 | 52 | [Is Subsequence](./LeetCode/Easy/Is%20Subsequence) | [LeetCode](https://leetcode.com/problems/is-subsequence/) | Easy | 29 Oct 2026 | 06:50 pm |
 | 53 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 29 Oct 2026 | 08:44 pm |
+| 54 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 29 Oct 2026 | 08:52 pm |
