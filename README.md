@@ -55,3 +55,4 @@
 | 53 | [Max Consecutive Ones](./LeetCode/Easy/Max%20Consecutive%20Ones) | [LeetCode](https://leetcode.com/problems/max-consecutive-ones/) | Easy | 29 Oct 2026 | 08:44 pm |
 | 54 | [Third Maximum Number](./LeetCode/Easy/Third%20Maximum%20Number) | [LeetCode](https://leetcode.com/problems/third-maximum-number/) | Easy | 29 Oct 2026 | 08:52 pm |
 | 55 | [Majority Element II](./LeetCode/Medium/Majority%20Element%20II) | [LeetCode](https://leetcode.com/problems/majority-element-ii/) | Medium | 29 Oct 2026 | 09:02 pm |
+| 56 | [Majority Element](./LeetCode/Easy/Majority%20Element) | [LeetCode](https://leetcode.com/problems/majority-element/) | Easy | 29 Oct 2026 | 10:51 pm |
