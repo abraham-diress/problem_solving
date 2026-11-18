@@ -65,3 +65,4 @@
 | 63 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 18 Nov 2026 | 06:03 pm |
 | 64 | [Scramble String](./LeetCode/Hard/Scramble%20String) | [LeetCode](https://leetcode.com/problems/scramble-string/) | Hard | 18 Nov 2026 | 06:04 pm |
 | 65 | [Unique Binary Search Trees II](./LeetCode/Medium/Unique%20Binary%20Search%20Trees%20II) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | 18 Nov 2026 | 06:04 pm |
+| 66 | [Unique Binary Search Trees](./LeetCode/Medium/Unique%20Binary%20Search%20Trees) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | 18 Nov 2026 | 06:05 pm |
