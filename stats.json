@@ -1,12 +1,12 @@
 {
-  "totalSolved": 66,
+  "totalSolved": 67,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 21,
-    "medium": 37,
+    "medium": 38,
     "hard": 8,
     "basic": 0
   },
@@ -76,7 +76,8 @@
     "LeetCode_Maximal_Rectangle": true,
     "LeetCode_Scramble_String": true,
     "LeetCode_Unique_Binary_Search_Trees_II": true,
-    "LeetCode_Unique_Binary_Search_Trees": true
+    "LeetCode_Unique_Binary_Search_Trees": true,
+    "LeetCode_Interleaving_String": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -103,7 +104,7 @@
     "2026-10-24": 2,
     "2026-10-29": 6,
     "2026-11-04": 3,
-    "2026-11-18": 7
+    "2026-11-18": 8
   },
   "todayProblems": [
     "Unique Paths",
@@ -112,6 +113,7 @@
     "Maximal Rectangle",
     "Scramble String",
     "Unique Binary Search Trees II",
-    "Unique Binary Search Trees"
+    "Unique Binary Search Trees",
+    "Interleaving String"
   ]
 }
