@@ -60,3 +60,4 @@
 | 58 | [Binary Tree Preorder Traversal](./LeetCode/Easy/Binary%20Tree%20Preorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Easy | 04 Nov 2026 | 10:46 pm |
 | 59 | [Binary Tree Postorder Traversal](./LeetCode/Easy/Binary%20Tree%20Postorder%20Traversal) | [LeetCode](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Easy | 04 Nov 2026 | 11:21 pm |
 | 60 | [Unique Paths](./LeetCode/Medium/Unique%20Paths) | [LeetCode](https://leetcode.com/problems/unique-paths/) | Medium | 18 Nov 2026 | 06:03 pm |
+| 61 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 18 Nov 2026 | 06:03 pm |
