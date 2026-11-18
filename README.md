@@ -67,3 +67,4 @@
 | 65 | [Unique Binary Search Trees II](./LeetCode/Medium/Unique%20Binary%20Search%20Trees%20II) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees-ii/) | Medium | 18 Nov 2026 | 06:04 pm |
 | 66 | [Unique Binary Search Trees](./LeetCode/Medium/Unique%20Binary%20Search%20Trees) | [LeetCode](https://leetcode.com/problems/unique-binary-search-trees/) | Medium | 18 Nov 2026 | 06:05 pm |
 | 67 | [Interleaving String](./LeetCode/Medium/Interleaving%20String) | [LeetCode](https://leetcode.com/problems/interleaving-string/) | Medium | 18 Nov 2026 | 06:05 pm |
+| 68 | [Distinct Subsequences](./LeetCode/Hard/Distinct%20Subsequences) | [LeetCode](https://leetcode.com/problems/distinct-subsequences/) | Hard | 18 Nov 2026 | 06:05 pm |
