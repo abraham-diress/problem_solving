@@ -1,13 +1,13 @@
 {
-  "totalSolved": 63,
+  "totalSolved": 64,
   "currentStreak": 1,
   "maxStreak": 3,
   "lastSyncDate": "2026-11-18",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 21,
     "medium": 35,
-    "hard": 7,
+    "hard": 8,
     "basic": 0
   },
   "syncedProblems": {
@@ -73,7 +73,8 @@
     "LeetCode_Unique_Paths": true,
     "LeetCode_Unique_Paths_II": true,
     "LeetCode_Minimum_Path_Sum": true,
-    "LeetCode_Maximal_Rectangle": true
+    "LeetCode_Maximal_Rectangle": true,
+    "LeetCode_Scramble_String": true
   },
   "activityHistory": {
     "2026-08-17": 1,
@@ -100,12 +101,13 @@
     "2026-10-24": 2,
     "2026-10-29": 6,
     "2026-11-04": 3,
-    "2026-11-18": 4
+    "2026-11-18": 5
   },
   "todayProblems": [
     "Unique Paths",
     "Unique Paths II",
     "Minimum Path Sum",
-    "Maximal Rectangle"
+    "Maximal Rectangle",
+    "Scramble String"
   ]
 }

@@ -63,3 +63,4 @@
 | 61 | [Unique Paths II](./LeetCode/Medium/Unique%20Paths%20II) | [LeetCode](https://leetcode.com/problems/unique-paths-ii/) | Medium | 18 Nov 2026 | 06:03 pm |
 | 62 | [Minimum Path Sum](./LeetCode/Medium/Minimum%20Path%20Sum) | [LeetCode](https://leetcode.com/problems/minimum-path-sum/) | Medium | 18 Nov 2026 | 06:03 pm |
 | 63 | [Maximal Rectangle](./LeetCode/Hard/Maximal%20Rectangle) | [LeetCode](https://leetcode.com/problems/maximal-rectangle/) | Hard | 18 Nov 2026 | 06:03 pm |
+| 64 | [Scramble String](./LeetCode/Hard/Scramble%20String) | [LeetCode](https://leetcode.com/problems/scramble-string/) | Hard | 18 Nov 2026 | 06:04 pm |
